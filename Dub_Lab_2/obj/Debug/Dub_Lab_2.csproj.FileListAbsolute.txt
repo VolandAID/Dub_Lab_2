@@ -1,0 +1,5 @@
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_2\bin\Debug\Dub_Lab_2.exe.config
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_2\bin\Debug\Dub_Lab_2.exe
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_2\bin\Debug\Dub_Lab_2.pdb
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_2\obj\Debug\Dub_Lab_2.exe
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_2\obj\Debug\Dub_Lab_2.pdb
